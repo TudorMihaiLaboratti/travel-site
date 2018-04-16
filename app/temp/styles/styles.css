@@ -1,0 +1,10 @@
+html {
+  color: #2f5572;
+  background: red;
+  -webkit-columns: 300px 2;
+          columns: 300px 2;
+}
+
+.box a {
+    display: block;
+  }
